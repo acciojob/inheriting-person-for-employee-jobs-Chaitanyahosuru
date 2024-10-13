@@ -1,4 +1,5 @@
 // complete this js code
+// Person class definition
 class Person {
     constructor(name, age) {
         this.name = name;
